@@ -40,7 +40,7 @@ PromptNest is a sleek and powerful web application that brings together multiple
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/promptnest.git
+git clone https://github.com/atharvviit26/PromptPilot
 cd promptnest
 
 ```
@@ -87,7 +87,7 @@ src/
 
 ## 🌐 Live Demo
 
-👉 [Deploy your app on Netlify or Vercel and put the link here]
+👉 https://prompt-pilot-seven.vercel.app/
 
 ---
 
@@ -97,18 +97,3 @@ src/
 - Powered by **Google AI** and **Hugging Face**
 
 ---
-
-## 📜 License
-
-This project is open source under the [MIT License](LICENSE).
-```
-
----
-
-### ✅ What You Can Do Next:
-
-- 📦 Add the CodeGenerator later as a separate branch
-- 🌍 Deploy to [Netlify](https://netlify.com/) or [Vercel](https://vercel.com/) for a public demo
-- 🖼 Want me to make a logo/banner for your GitHub README?
-
-Let me know and I’ll make it!
