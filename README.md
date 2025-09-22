@@ -40,8 +40,7 @@ PromptNest is a sleek and powerful web application that brings together multiple
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/atharvviit26/PromptPilot
-cd promptnest
+
 
 ```
 
@@ -87,13 +86,6 @@ src/
 
 ## 🌐 Live Demo
 
-👉 https://prompt-pilot-seven.vercel.app/
-
----
-
-## 🙌 Credits
-
-- Developed with 💖 by Atharv
-- Powered by **Google AI** and **Hugging Face**
+👉 
 
 ---
