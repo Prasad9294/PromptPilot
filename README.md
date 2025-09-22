@@ -40,7 +40,7 @@ PromptNest is a sleek and powerful web application that brings together multiple
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Prasad9294/PromptPilot
+git clone https://github.com/Prasad9294/PromptPilot.git
 
 ```
 
